@@ -1,0 +1,8 @@
+.nav{
+    background-color: #023430;
+    margin: 0;
+    padding: 20px 20px;
+    border-bottom: 1px solid rgb(21, 160, 234);
+    border-style: groove;
+    color: rgb(162, 0, 255);
+}
