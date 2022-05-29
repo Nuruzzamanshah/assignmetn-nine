@@ -19,11 +19,12 @@ return (
           <h1 className="red">The Old Man</h1>
           <h1 className="white">and the Sea</h1>
           <p>
-          “Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.” ~ Ernest Hemingway, The Old Man and the Sea. I picked up The Old Man and the Sea because I am participating in an Instagram readathon in which the prompt was to read a book that is a part of a “100 books to read in a lifetime” list.
+          “Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.” ~ Ernest Hemingway, The Old Man and the Sea. 
+          “But the old man always thought of her as feminine and as something that gave or withheld great favours, and if she did wild or wicked things it was because she could not help them. The moon affects her as it does a woman, he thought.”
           </p>
           <button className="btn">Bye Now</button>
         </div>
-        <div>
+        <div className='image'>
           <img src={Image} alt="" />
         </div>
       </div>
