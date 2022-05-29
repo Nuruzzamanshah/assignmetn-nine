@@ -22,19 +22,19 @@ const Dashboard = () => {
     {
       month: "Mar",
       investment: 100000,
-      sell: 241,
+      sell: 341,
       revenue: 10401,
     },
     {
       month: "Apr",
       investment: 200000,
-      sell: 423,
+      sell: 403,
       revenue: 24500,
     },
     {
       month: "May",
       investment: 500000,
-      sell: 726,
+      sell: 526,
       revenue: 67010,
     },
     {
@@ -51,7 +51,7 @@ const Dashboard = () => {
     },
     {
       month: "Aug",
-      investment: 700000,
+      investment: 750000,
       sell: 670,
       revenue: 61000,
     },
